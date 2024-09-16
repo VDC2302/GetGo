@@ -36,21 +36,21 @@ dependencies:
   collection: ^1.17.0
   cupertino_icons: ^1.0.8
   equatable: ^2.0.5
-  flutter_calendar_carousel: ^2.4.1
+  flutter_calendar_carousel: ^2.4.4
   flutter_html: ^3.0.0-beta.2
   flutter_typeahead: ^5.2.0
   font_awesome_flutter: ^10.7.0
-  http: ^1.2.0
+  http: ^1.2.2
   image_picker: ^1.1.0
   intl: ^0.18.1
   json_annotation: ^4.8.1
   version: ^3.0.2
-  package_info_plus: ^8.0.0
+  package_info_plus: ^8.0.2
   provider: ^6.1.2
   # Note, do not update rive! https://github.com/wger-project/flutter/issues/577
   rive: ^0.12.4
   shared_preferences: ^2.2.3
-  table_calendar: ^3.0.8
+  table_calendar: ^3.1.2
   url_launcher: ^6.2.6
   flutter_barcode_scanner: ^2.0.0
   video_player: ^2.8.6
@@ -60,7 +60,7 @@ dependencies:
   flutter_svg: ^2.0.10+1
   fl_chart: ^0.68.0
   flutter_zxing: ^1.5.2
-  drift: ^2.16.0
+  drift: ^2.20.2
   path: ^1.8.3
   path_provider: ^2.1.3
   sqlite3_flutter_libs: ^0.5.20
@@ -85,7 +85,7 @@ dev_dependencies:
   network_image_mock: ^2.1.1
   flutter_lints: ^4.0.0
   cider: ^0.2.7
-  drift_dev: ^2.17.0
+  drift_dev: ^2.20.3
   freezed: ^2.5.2
   golden_toolkit: ^0.15.0
 
