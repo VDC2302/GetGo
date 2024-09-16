@@ -36,7 +36,7 @@ dependencies:
   collection: ^1.17.0
   cupertino_icons: ^1.0.8
   equatable: ^2.0.5
-  flutter_calendar_carousel: ^2.4.1
+  flutter_calendar_carousel: ^2.4.4
   flutter_html: ^3.0.0-beta.2
   flutter_typeahead: ^5.2.0
   font_awesome_flutter: ^10.7.0
@@ -50,7 +50,7 @@ dependencies:
   # Note, do not update rive! https://github.com/wger-project/flutter/issues/577
   rive: ^0.12.4
   shared_preferences: ^2.2.3
-  table_calendar: ^3.0.8
+  table_calendar: ^3.1.2
   url_launcher: ^6.2.6
   flutter_barcode_scanner: ^2.0.0
   video_player: ^2.8.6
@@ -79,7 +79,7 @@ dev_dependencies:
     sdk: flutter
   integration_test:
     sdk: flutter
-  build_runner: ^2.4.9
+  build_runner: ^2.4.12
   json_serializable: ^6.8.0
   mockito: ^5.4.4
   network_image_mock: ^2.1.1
